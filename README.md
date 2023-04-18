@@ -1,6 +1,6 @@
 # Projet-2048-S2
 TD-01 Miashs 
-Chef du projet : Furkan 22100351
+Chef du projet : Toraman Furkan 22100351
 Membres du groupe : Ponnuthurai Kaven 22201048
 Kasdi Samir 22206154
 Rouwaydath El-Hadjtidjani 22203325
